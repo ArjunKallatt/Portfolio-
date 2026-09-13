@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   title: "Arjun Kallatt — Software Engineer & Security Researcher",
   description:
     "Arjun 'Aaru' Kallatt — I build the tools that make enterprise software teams faster, and dig into the systems that break them. Assistant Solutions Analyst at Nucleus Software, working on FinnOne Neo.",
-  metadataBase: new URL("https://arjunkallatt.dev"),
+  metadataBase: new URL("https://arjunkallatt.github.io/Portfolio-/"),
   openGraph: {
     title: "Arjun Kallatt — Software Engineer & Security Researcher",
     description:
