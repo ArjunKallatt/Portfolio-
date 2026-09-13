@@ -25,3 +25,11 @@ Open [http://localhost:3000](http://localhost:3000).
 npm run build
 npm run start
 ```
+
+## GitHub Pages
+
+The site is built as a static export (`output: 'export'` in `next.config.mjs`)
+and deployed via `.github/workflows/deploy.yml` on every push to `main`.
+
+- Enable deployment (one-time): [Settings → Pages](https://github.com/ArjunKallatt/Portfolio-/settings/pages) — set **Source** to **GitHub Actions**.
+- Live site: [https://arjunkallatt.github.io/Portfolio-/](https://arjunkallatt.github.io/Portfolio-/)
